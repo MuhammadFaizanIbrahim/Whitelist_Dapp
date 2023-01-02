@@ -8,6 +8,6 @@ Once a user with a certain address joined the Whitelist, the same user can't joi
 
 The maximum number of users who can join our Whitelist are 10 as specified in the contract.
 
-Here is the link of Screenshot of Our Functionable Dapp:
+Here is the Screenshot of Our Functionable Dapp:
 
 ![2023-01-02 (2)](https://user-images.githubusercontent.com/120009935/210215323-b3a700cd-ad0b-48cf-94c9-23e2e63cad46.png)
